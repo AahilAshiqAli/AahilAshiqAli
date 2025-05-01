@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 you found my github.</h1>
-<h1 align="center"> I’m Aahil. </h1>
+<h1 align="center"> 👋 You found my github.
+ I’m Aahil. </h1>
 <h4 align="center">Just dumping my projects here like everybody else 😅</h4>
 
 <p align="center">
