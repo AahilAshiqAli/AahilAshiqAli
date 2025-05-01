@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 You found my github.
  I’m Aahil. </h1>
-<h4 align="center">Just dumping my projects here like everybody else 😅</h4>
+<h4>Just dumping my projects here like everybody else 😅</h4>
+&nbsp;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahilAshiqAli&layout=compact&langs_count=8&theme=radical)
 
 
 
