@@ -1,7 +1,7 @@
-<h2 align="center">hey, i’m just here coding stuff 👋</h2>
-
+<h1 align="center">hey there 👋, you found my github. i’m Aahil.  </h1>
+<h3>Just dumping my projects here like everybody else</h3>
 <p align="center">
-  <img src="https://your-image-url.com/profile-pic.png" alt="profile picture" width="200" style="border-radius:50%;">
+ 
 </p>
 
 ---
